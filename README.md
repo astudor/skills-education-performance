@@ -5,6 +5,7 @@ Program de excelenta in educatie si dezvoltare a abilitatiilor
 
 ### Coordonate:
 Vertical: Educatie
+
 Orizontal: Aplicarea inventicii
 
 Despre:
