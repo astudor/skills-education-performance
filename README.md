@@ -5,6 +5,11 @@ Dezvoltarea abilitatilor pe grupa de varsta 4-6 ani relevante pt cresterea armon
 
 Titlu scurt reprezentativ: Jocurile - Materiale Educative pentru dezvoltarea armonioasa
 
+### Autori:
+Andrei Tudor, ORCID 0000-0002-6516-9531
+Valentina Dantis,
+Adriana Les
+
 ### Coordonate:
 **Fenomen**: Dezvoltarea abilitatilor 
 
